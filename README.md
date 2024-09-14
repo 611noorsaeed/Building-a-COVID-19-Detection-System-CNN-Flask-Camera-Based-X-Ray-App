@@ -1,1 +1,1 @@
-# Building-a-COVID-19-Detection-System-CNN-Flask-Camera-Based-X-Ray-App
+# Building-a-COVID-19-Detection-System-Using-CNN-Deep-Learning | Flask-Camera-Based-X-Ray-App
